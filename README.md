@@ -1,7 +1,8 @@
 # 👋 Hi there, I’m Maxim
-- 🇷🇺 I live in Moscow, Russia
+- 🏫 I live in Moscow and study at the HSE University
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning C#, C++ and Unreal Engine
+- 🌱 I already know C# well and now I'm learning C++ and Unreal Engine
+- 📈 In addition, I have some knowledge of python and java
 - ✉️ My email: mvkuznetsov_3@edu.hse.ru
 
 
