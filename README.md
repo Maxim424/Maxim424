@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Maxim
 - 🏫 I live in Moscow and study at the HSE University
 - 👀 I’m interested in game dev
-- 🌱 I already know C# well and now I'm learning C++ and java
-- 📈 In addition, I have some knowledge of python
+- 🌱 I already know C# and C++ well and now I'm learning Swift and Java
+- 📈 In addition, I have some knowledge of Python
 - ✉️ My email: mvkuznetsov_3@edu.hse.ru
 
 
